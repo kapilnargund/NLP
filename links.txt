@@ -1,0 +1,48 @@
+https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/
+
+https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
+./nosqlbooster4mongo*.AppImage
+
+apache superset # https://www.youtube.com/watch?v=AqousXQ7YHw
+
+git token for authentication : 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
+token(10/1/22) : linux terminal - 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
+
+to pull from thyroid project : https://github.com/kapilnargund/thyroid_disease_detection/pull/new/master
+
+local folder to github : https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github
+
+NLP links:
+basics - https://monkeylearn.com/blog/nlp-ai/
+
+https://pythonrepo.com/repo/huggingface-neuralcoref-python-natural-language-processing
+https://towardsdatascience.com/named-entity-recognition-ner-using-spacy-nlp-part-4-28da2ece57c6
+WSD - https://www.analyticsvidhya.com/blog/2021/06/word-sense-disambiguation-importance-in-natural-language-processing/
+
+NLP embeddings:
+https://radimrehurek.com/gensim/models/word2vec.html
+https://rare-technologies.com/word2vec-tutorial/
+https://radimrehurek.com/gensim/auto_examples/core/run_core_concepts.html#sphx-glr-auto-examples-core-run-core-concepts-py
+
+cbow vs skip-gram - static embeddings
+https://stackoverflow.com/questions/38287772/cbow-v-s-skip-gram-why-invert-context-and-target-words
+https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314
+
+glove - https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa
+word2vec example - https://www.kaggle.com/nitin194/twitter-sentiment-analysis-word2vec-doc2vec
+doc2vec example - https://github.com/bariscimen/doc2vec-sentiment/blob/master/run.ipynb
+
+
+
+Blockchain links and YT tutorials(React needed)
+basics - https://www.coindesk.com/learn/2021/02/08/which-crypto-projects-are-based-on-ethereum/
+
+https://www.youtube.com/watch?v=Wn_Kb3MR_cU
+https://www.youtube.com/watch?v=8rhueOcTu8k
+
+
+BERT NLP:
+https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
+https://towardsdatascience.com/training-a-multi-label-emotion-classifier-with-tez-and-pytorch-af04c899a63a
+https://www.kaggle.com/sumantindurkhya/bert-for-sentence-classification-93
